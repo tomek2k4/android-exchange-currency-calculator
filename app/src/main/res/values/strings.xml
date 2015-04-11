@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrzelicznikWalut</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="waluta_wejsciowa_text">Wybierz walute wejsciowa</string>
+    <string name="wartosc_wejsciowa_prompt">Wpisz wartosc</string>
+    <string name="wartosc_zacheta">Wpisz wartosc</string>
+</resources>
